@@ -1,0 +1,4 @@
+[tool.yapfignore]
+ignore_patterns = [
+    "venv"
+]
